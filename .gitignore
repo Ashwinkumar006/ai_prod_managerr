@@ -1,0 +1,11 @@
+.venv/
+tools/
+__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+*.pyc
+*.pyo
+*.db
+server.log
+server.err
+p2_import_log.txt
